@@ -1,6 +1,6 @@
 # WeatherNow 🌦️
 
-A modern, portfolio-ready weather application built using vanilla JavaScript and the OpenWeather API.
+A portfolio-ready weather application built using HTML, CSS, JavaScript, and the OpenWeather API.
 
 ## Features
 - Real-time weather data
@@ -17,4 +17,4 @@ A modern, portfolio-ready weather application built using vanilla JavaScript and
 - OpenWeather API
 
 ## Live Demo
-(Coming soon – deployed on Netlify)
+Coming soon (Netlify)
